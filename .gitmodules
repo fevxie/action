@@ -1,0 +1,3 @@
+[submodule "oAuth"]
+	path = oAuth
+	url = git@github.com:fevxie/oAuth.git
